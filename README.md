@@ -29,10 +29,12 @@ Navigate to the project folder:
 
 
 cd MoviesStore
+
 Install dependencies:
 
 
 npm install
+
 Run the app:
 
 
