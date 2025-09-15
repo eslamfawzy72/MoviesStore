@@ -21,3 +21,19 @@ Built with **React.js**, **React-Bootstrap**, **HTML5**, **CSS3**, and **Bootstr
 - **CSS3**
 
 ---
+## 📦 Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/eslamfawzy72/MoviesStore.git
+Navigate to the project folder:
+
+
+cd MoviesStore
+Install dependencies:
+
+
+npm install
+Run the app:
+
+
+npm start
