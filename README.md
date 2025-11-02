@@ -33,20 +33,21 @@ Check your installation:
 ```bash
 node -v
 npm -v
+````
 📥 Clone the Repository
-bash
-Copy code
+```bash
 git clone https://github.com/eslamfawzy72/MoviesStore.git
+````
 Navigate into the project directory:
 
-bash
-Copy code
+
+```bash
 cd MoviesStore
+````
 📦 Install Dependencies
-bash
-Copy code
+```bash
 npm install
+````
 ▶️ Run the Development Server
-bash
-Copy code
+```bash
 npm start
